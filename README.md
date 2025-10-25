@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [FocusAI: Your AI accountability partner](https://github.com/Aruniaaa/FocusAI)
 
-- 🌱 I’m currently learning **tensorflow, pytorch (in depth), DSA, and maths for machine and deep learning**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **anything and everything!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aruniaaa](https://github.com/Aruniaaa)
 
-- 💬 Ask me about **Transformers, Deep Learning, Programming, Machine Learning, and anything Python related!**
+- 💬 Ask me about **Pytorch, Deep Learning, Programming, Machine Learning, Web Dev and anything Python related!**
 
 - 📫 How to reach me **charulabs@gmail.com**
 
