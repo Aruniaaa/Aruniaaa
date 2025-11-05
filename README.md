@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruniaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aruniaaa" /> </p>
 
-- 🔭 I’m currently working on [FocusAI: Your AI accountability partner](https://github.com/Aruniaaa/FocusAI)
 
 - 🌱 I’m currently learning **Flask**
 
