@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charu Singhania</h1>
-<h3 align="center">Passionate about machine and deep learning | Computer Science + Programming Enthusiast | High Schooler | India</h3>
+<h3 align="center">Passionate About Machine And Deep Learning | Computer Science + Programming Enthusiast | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruniaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aruniaaa" /> </p>
 
