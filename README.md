@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruniaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aruniaaa" /> </p>
 
 
-- 🌱 I’m currently learning about **VGG, A Convolutional Neural Network Architecture**
+- 🌱 I’m currently learning about **Deep Learning and Backend Web Dev**
 
 - 👯 I’m looking to collaborate on **anything and everything!**
 
